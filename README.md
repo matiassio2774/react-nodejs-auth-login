@@ -18,4 +18,4 @@ iniciar el servidor -> npm run dev
 
 *BASE DE DATOS*
 
-(https://raw.githubusercontent.com/matiassio2774/react-nodejs-auth-login/master/tabla_usuarios.jpg)
+!['loading'](https://raw.githubusercontent.com/matiassio2774/react-nodejs-auth-login/master/tabla_usuarios.jpg)
